@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI定向 on 股票资讯  --  知识铺</title>
-    <link>https://stock.zshipu.com/tags/AI%E5%AE%9A%E5%90%91/</link>
+    <link>http://localhost:1313/tags/AI%E5%AE%9A%E5%90%91/</link>
     <description>Recent content in AI定向 on 股票资讯  --  知识铺</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Sat, 23 Mar 2024 16:16:28 +0000</lastBuildDate>
-    <atom:link href="https://stock.zshipu.com/tags/AI%E5%AE%9A%E5%90%91/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/AI%E5%AE%9A%E5%90%91/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>腾讯AI商业化布局及行业应用 -- 知识铺</title>
-      <link>https://stock.zshipu.com/post/20240324/%E8%85%BE%E8%AE%AF%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E6%8B%BF-AI-%E8%B5%9A%E9%92%B1%E4%BA%86%E6%89%80%E5%B8%83%E5%B1%80%E7%9A%84%E8%A1%8C%E4%B8%9A%E9%83%BD%E6%9C%89%E5%93%AA%E4%BA%9B-360AI%E6%90%9C%E7%B4%A2/</link>
+      <link>http://localhost:1313/post/20240324/%E8%85%BE%E8%AE%AF%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E6%8B%BF-AI-%E8%B5%9A%E9%92%B1%E4%BA%86%E6%89%80%E5%B8%83%E5%B1%80%E7%9A%84%E8%A1%8C%E4%B8%9A%E9%83%BD%E6%9C%89%E5%93%AA%E4%BA%9B-360AI%E6%90%9C%E7%B4%A2/</link>
       <pubDate>Sat, 23 Mar 2024 16:16:28 +0000</pubDate>
-      <guid>https://stock.zshipu.com/post/20240324/%E8%85%BE%E8%AE%AF%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E6%8B%BF-AI-%E8%B5%9A%E9%92%B1%E4%BA%86%E6%89%80%E5%B8%83%E5%B1%80%E7%9A%84%E8%A1%8C%E4%B8%9A%E9%83%BD%E6%9C%89%E5%93%AA%E4%BA%9B-360AI%E6%90%9C%E7%B4%A2/</guid>
+      <guid>http://localhost:1313/post/20240324/%E8%85%BE%E8%AE%AF%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E6%8B%BF-AI-%E8%B5%9A%E9%92%B1%E4%BA%86%E6%89%80%E5%B8%83%E5%B1%80%E7%9A%84%E8%A1%8C%E4%B8%9A%E9%83%BD%E6%9C%89%E5%93%AA%E4%BA%9B-360AI%E6%90%9C%E7%B4%A2/</guid>
       <description>腾讯AI商业化成果 腾讯已经利用AI技术实现了商业上的成功。根据2023年的财报，腾讯的广告收入达到了297.94亿元，同比增长21%，这主要得益于视频号和微信搜一搜的新广告库存以及广告平台的持续升级。AI技术的应用显著提升了广告的定向能力，使得广告能够更精准地投放给目标用户，从而</description>
     </item>
   </channel>
