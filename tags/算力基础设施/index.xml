@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>算力基础设施 on 股票资讯  --  知识铺</title>
-    <link>https://stock.zshipu.com/tags/%E7%AE%97%E5%8A%9B%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD/</link>
+    <link>http://localhost:1313/tags/%E7%AE%97%E5%8A%9B%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD/</link>
     <description>Recent content in 算力基础设施 on 股票资讯  --  知识铺</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Sat, 23 Mar 2024 19:17:17 +0000</lastBuildDate>
-    <atom:link href="https://stock.zshipu.com/tags/%E7%AE%97%E5%8A%9B%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E7%AE%97%E5%8A%9B%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>算力成为数字化时代基础资源，AI算力需求爆发推动产业链发展 -- 知识铺</title>
-      <link>https://stock.zshipu.com/post/20240324/%E7%AE%97%E5%8A%9B%E6%88%90%E4%B8%BA%E6%95%B0%E5%AD%97%E5%8C%96%E6%97%B6%E4%BB%A3%E5%9F%BA%E7%A1%80%E8%B5%84%E6%BA%90AI%E7%AE%97%E5%8A%9B%E9%9C%80%E6%B1%82%E7%88%86%E5%8F%91%E6%8E%A8%E5%8A%A8%E4%BA%A7%E4%B8%9A%E9%93%BE%E5%8F%91%E5%B1%95--%E7%9F%A5%E8%AF%86%E9%93%BA/</link>
+      <link>http://localhost:1313/post/20240324/%E7%AE%97%E5%8A%9B%E6%88%90%E4%B8%BA%E6%95%B0%E5%AD%97%E5%8C%96%E6%97%B6%E4%BB%A3%E5%9F%BA%E7%A1%80%E8%B5%84%E6%BA%90AI%E7%AE%97%E5%8A%9B%E9%9C%80%E6%B1%82%E7%88%86%E5%8F%91%E6%8E%A8%E5%8A%A8%E4%BA%A7%E4%B8%9A%E9%93%BE%E5%8F%91%E5%B1%95--%E7%9F%A5%E8%AF%86%E9%93%BA/</link>
       <pubDate>Sat, 23 Mar 2024 19:17:17 +0000</pubDate>
-      <guid>https://stock.zshipu.com/post/20240324/%E7%AE%97%E5%8A%9B%E6%88%90%E4%B8%BA%E6%95%B0%E5%AD%97%E5%8C%96%E6%97%B6%E4%BB%A3%E5%9F%BA%E7%A1%80%E8%B5%84%E6%BA%90AI%E7%AE%97%E5%8A%9B%E9%9C%80%E6%B1%82%E7%88%86%E5%8F%91%E6%8E%A8%E5%8A%A8%E4%BA%A7%E4%B8%9A%E9%93%BE%E5%8F%91%E5%B1%95--%E7%9F%A5%E8%AF%86%E9%93%BA/</guid>
+      <guid>http://localhost:1313/post/20240324/%E7%AE%97%E5%8A%9B%E6%88%90%E4%B8%BA%E6%95%B0%E5%AD%97%E5%8C%96%E6%97%B6%E4%BB%A3%E5%9F%BA%E7%A1%80%E8%B5%84%E6%BA%90AI%E7%AE%97%E5%8A%9B%E9%9C%80%E6%B1%82%E7%88%86%E5%8F%91%E6%8E%A8%E5%8A%A8%E4%BA%A7%E4%B8%9A%E9%93%BE%E5%8F%91%E5%B1%95--%E7%9F%A5%E8%AF%86%E9%93%BA/</guid>
       <description>在当今数字化、智能化的时代，算力已经变得和水电一样，成为了我们生活和工作不可或缺的基础资源。就像电能让灯泡亮起、电脑运转一样，算力也在默默地支撑着整个数字世界的运转。特别是在人工智能遍地开花的今天，算力更是成为了全球紧缺的战略资源。 中国，作为全球的第二大经济体，在算力基础设施的建</description>
     </item>
   </channel>
