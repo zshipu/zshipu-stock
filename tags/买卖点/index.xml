@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>买卖点 on 股票资讯  --  知识铺</title>
-    <link>https://stock.zshipu.com/tags/%E4%B9%B0%E5%8D%96%E7%82%B9/</link>
+    <link>http://localhost:1313/tags/%E4%B9%B0%E5%8D%96%E7%82%B9/</link>
     <description>Recent content in 买卖点 on 股票资讯  --  知识铺</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Mon, 25 Mar 2024 23:00:38 +0000</lastBuildDate>
-    <atom:link href="https://stock.zshipu.com/tags/%E4%B9%B0%E5%8D%96%E7%82%B9/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E4%B9%B0%E5%8D%96%E7%82%B9/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>股票投资入门指南 -- 知识铺</title>
-      <link>https://stock.zshipu.com/post/20240326/%E8%82%A1%E7%A5%A8%E6%8A%95%E8%B5%84%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97--%E7%9F%A5%E8%AF%86%E9%93%BA/</link>
+      <link>http://localhost:1313/post/20240326/%E8%82%A1%E7%A5%A8%E6%8A%95%E8%B5%84%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97--%E7%9F%A5%E8%AF%86%E9%93%BA/</link>
       <pubDate>Mon, 25 Mar 2024 23:00:38 +0000</pubDate>
-      <guid>https://stock.zshipu.com/post/20240326/%E8%82%A1%E7%A5%A8%E6%8A%95%E8%B5%84%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97--%E7%9F%A5%E8%AF%86%E9%93%BA/</guid>
+      <guid>http://localhost:1313/post/20240326/%E8%82%A1%E7%A5%A8%E6%8A%95%E8%B5%84%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97--%E7%9F%A5%E8%AF%86%E9%93%BA/</guid>
       <description>随着资本市场的不断发展，越来越多的人将目光投向股市，期待在股市实现财富的增值。对于初入股市的新手而言，大家不能打无准备之仗，一定要提前学习相关知识，这样才能更好地闯荡股市。 股票是什么 大家需要了解股票的分类。根据上市地点的不同，股票可以分为A股、B股、H股、N股、S股等。 其中A股是</description>
     </item>
   </channel>
